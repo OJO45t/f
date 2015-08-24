@@ -1,8 +1,8 @@
 # Long live shadowsocks
 
-> 本文通过 知识共享 署名-相同方式共享 3.0 中国大陆 许可协议授权。由于原作者暂时禁止了本文的访问，我们暂时去掉了作者的署名，望知悉。
+> 本文通过 知识共享 署名-相同方式共享 3.0 中国大陆 许可协议授权。
 
-**\<hidden\>** typed...
+**PeterCxy** typed...
 
 And f*** the GFW. 向那些为互联网自由而奋斗的勇士们致敬。
 
@@ -80,5 +80,7 @@ https://github.com/clowwindy/json_to_model
 还有：
 
 GFW your mother **BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM**
+
+##### "网络汉奸" PeterCxy 如是说道。
 
 ##### Long long live our shadowsocks!
